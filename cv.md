@@ -11,6 +11,6 @@ const func = (num) => {
 	return num + 1; 
 }; 
 ```
-6.
-7.I am a second-year at university. My major is computer science and information technology.
-8.My English level is B1+. I also study as a translator at university. I have language practice. I lived in the USA for five mounts.
+6.  
+7. I am a second-year at university. My major is computer science and information technology.
+8. My English level is B1+. I also study as a translator at university. I have language practice. I lived in the USA for five mounts.
